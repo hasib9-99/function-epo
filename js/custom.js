@@ -43,14 +43,6 @@
 
 
 
-
-
-
-
-
-
-
-
 let counter = document.querySelector(".counter")
 let counter1 = document.querySelector(".counter1")
 let counter2 = document.querySelector(".counter2")
